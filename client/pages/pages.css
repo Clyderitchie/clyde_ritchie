@@ -1,0 +1,27 @@
+/* Homepage */
+#intro {
+    padding: 4%;
+    margin-top: 3%;
+}
+
+#projectContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#row1 {
+    outline: 2px solid red;
+    margin-right: 5%;
+}
+
+#project1 {
+    outline: 1px solid black;
+    width: 621px;
+    height: 100%;
+}
+
+#row2 {
+    outline: 2px solid green;
+}
